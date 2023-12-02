@@ -1,0 +1,13 @@
+name: RT_Inventory_Analysis
+title: RT_Inventory_Analysis
+username: sralab-kteam
+account: sralab-kteam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10608506
+bundleId: 7997472
+url: https://sralab-kteam.shinyapps.io/RT_Inventory_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: WWW/exo_hero_img.png

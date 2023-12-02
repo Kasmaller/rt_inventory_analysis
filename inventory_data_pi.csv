@@ -1,0 +1,91 @@
+device,observed,training,purpose,power,actuation,monitor,objective
+Upper Extremity Assessment Tool,Observed,Complex Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Non-Observed,Complex Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Battery Power,Unactuated,Monitor,Measurement
+Upper Extremity Assessment Tool,Observed,Short Training,Single-Purpose,Battery Power,Unactuated,Monitor,Measurement
+Upper Extremity Assessment Tool,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Upper Extremity Assessment Tool,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Measurement
+Vitals Machine,Observed,Entry-Level Training,Single-Purpose,Battery Power,Unactuated,Monitor,Measurement
+Vitals Machine,Observed,Entry-Level Training,Single-Purpose,Battery Power,Unactuated,Monitor,Measurement
+Computerized Reaction Training Lightboard,Non-Observed,Short Training,Multi-Purpose,AC Power,Unactuated,Monitor,Combined
+Exoskeleton,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Combined
+Functional Estim Device,Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Combined
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Actuated,Monitor,Combined
+UE/LE Strength Assessment Tool,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Combined
+Upper Extremity Robot,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Combined
+Visual Motor/Cognitive/Endurace Software Tool,Non-Observed,Short Training,Multi-Purpose,AC Power,Unactuated,Monitor,Combined
+Virtual Reality Treadmill,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,No Monitor,Combined
+Virtual Reality Treadmill,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Combined
+Adjustable Mat Table,Observed,Entry-Level Training,Multi-Purpose,AC Power,Actuated,No Monitor,Intervention
+Adjustable Parallel Bars,Observed,Entry-Level Training,Multi-Purpose,AC Power,Actuated,No Monitor,Intervention
+Barrier Free Ceiling Lift,Observed,Short Training,Multi-Purpose,AC Power,Actuated,No Monitor,Intervention
+Body-Weight Supported Treadmill,Observed,Short Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Car Transfer simulator,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Cross Trainer,Observed,Entry-Level Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Cross Trainer,Observed,Entry-Level Training,Single-Purpose,AC Power,Actuated,Monitor,Intervention
+Dual Extremity Ergometer,Observed,Entry-Level Training,Multi-Purpose,Battery Power,Actuated,No Monitor,Intervention
+Dual Extremity Ergometer,Non-Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,Monitor,Intervention
+Dual Extremity Ergometer,Observed,Short Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Dual Extremity Ergometer,Non-Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,Monitor,Intervention
+Exoskeleton,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Actuated,No Monitor,Intervention
+Functional Estim Device,Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Single-Purpose,Battery Power,Unactuated,No Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Single-Purpose,Battery Power,Unactuated,No Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Single-Purpose,AC Power,Unactuated,No Monitor,Intervention
+Gaming Console,Observed,Entry-Level Training,Multi-Purpose,AC Power,Unactuated,Monitor,Intervention
+Gaming Console,Non-Observed,Entry-Level Training,Multi-Purpose,AC Power,Unactuated,Monitor,Intervention
+Gaming Controller,Non-Observed,Entry-Level Training,Single-Purpose,Battery Power,Unactuated,No Monitor,Intervention
+Gaming Motion Capture Camera,Non-Observed,Entry-Level Training,Multi-Purpose,AC Power,Unactuated,No Monitor,Intervention
+Hand Rehab Glove,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Hoyer Lift,Observed,Complex Training,Single-Purpose,Battery Power,Actuated,No Monitor,Intervention
+Hoyer Lift,Non-Observed,Complex Training,Single-Purpose,Battery Power,Actuated,No Monitor,Intervention
+Hoyer Lift,Non-Observed,Complex Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Light Based Reflex Training System,Non-Observed,Short Training,Multi-Purpose,Battery Power,Unactuated,No Monitor,Intervention
+Mini Lift,Non-Observed,Short Training,Single-Purpose,Battery Power,Actuated,No Monitor,Intervention
+Mobile Arm Support,Observed,Short Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Mobile Arm Support,Non-Observed,Short Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,No Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,No Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,No Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,Monitor,Intervention
+Multi-Sensory Tool,Non-Observed,Short Training,Single-Purpose,AC Power,Unactuated,Monitor,Intervention
+Obstacle Course,Non-Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Overhead Gait Track,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,No Monitor,Intervention
+Overhead Gait Track,Observed,Short Training,Multi-Purpose,AC Power,Actuated,No Monitor,Intervention
+Overhead Gait Track,Observed,Short Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Parallel Bars,Non-Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Prone Cart,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Split Treadmill,Non-Observed,Complex Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Stander,Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Stander,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Stander,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Stander,Non-Observed,Short Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Stationary Bike,Observed,Entry-Level Training,Single-Purpose,AC Power,Actuated,Monitor,Intervention
+Support Walker,Observed,Entry-Level Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Support Walker,Observed,Entry-Level Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Tilt Table,Non-Observed,Complex Training,Single-Purpose,Battery Power,Actuated,Monitor,Intervention
+Tilt Table,Observed,Short Training,Single-Purpose,AC Power,Actuated,No Monitor,Intervention
+Transfer and Mobility Device,Non-Observed,Short Training,Single-Purpose,Battery Power,Actuated,Monitor,Intervention
+Treadmill,Non-Observed,Entry-Level Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Treadmill,Observed,Short Training,Multi-Purpose,AC Power,Actuated,Monitor,Intervention
+Upper Extremity Robot,Non-Observed,Complex Training,Multi-Purpose,AC Power,Unactuated,Monitor,Intervention
+Upper Extremity Robot,Non-Observed,Short Training,Multi-Purpose,AC Power,Unactuated,Monitor,Intervention
+Weight Lifting Equipment,Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Weight Lifting Equipment,Observed,Entry-Level Training,Multi-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Weight Lifting Equipment,Observed,Entry-Level Training,Single-Purpose,Unpowered,Unactuated,No Monitor,Intervention
+Functional Estim Device,Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,No Monitor,Intervention
+Functional Estim Device,Non-Observed,Complex Training,Multi-Purpose,Battery Power,Unactuated,No Monitor,Intervention
